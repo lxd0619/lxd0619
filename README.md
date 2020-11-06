@@ -1,4 +1,5 @@
 ### Hi there 👋
+Last 7 days I spend time on
 <!--START_SECTION:waka-->
 ```text
 JavaScript   17 hrs 19 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.91 % 
